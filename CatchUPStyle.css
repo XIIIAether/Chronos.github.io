@@ -1,0 +1,74 @@
+body {
+	background-size: cover;
+	background-image:url(https://www.hdwallpaper.nu/wp-content/uploads/2015/06/the_witcher_3_new_logo___wallpaper_by_alexander_x-d7il4a1-1024x576.jpg);
+}
+button {
+	background-image: url(https://vignette.wikia.nocookie.net/witcher/images/0/03/Tw3_medallion.png/revision/latest/scale-to-width-down/513?cb=20160416054840);
+	outlin
+}
+/*IDs For Texts*/
+#HeadingI {
+	font:italic 3em indigo;
+	text-align: center;
+	font-family: papyrus;
+}
+
+/*IDs For Links*/
+#LinkI {
+	color: green;
+
+}
+/*IDs For Button*/
+#ButtonI {
+	background-image: url(https://vignette.wikia.nocookie.net/witcher/images/0/03/Tw3_medallion.png/revision/latest/scale-to-width-down/513?cb=20160416054840);
+	background-color: rgba(5,150,225,0.3);
+	opacity: 0.6;
+	color: lightblue;
+	position: relative;
+	top: 50%;
+	left: 45%;
+	border-radius: 50px;
+	font-size: 3em;
+	box-shadow: 3px 3px 13px white;
+}
+/*IDs For Icon*/
+#IconI {
+	position: relative;
+	top: 50%;
+	left: 48%;
+	opacity: 0.6;
+	animation: ease-out;
+}
+/*IDs For Title*/
+title {
+	font-family: cursive;
+	color: indigo;
+	background: lightblue;
+}
+/* Hover */
+a:hover {
+	box-shadow: 1px 1px 50px gold;
+	position: absolute;
+	top: 50%;
+	left:48%;
+	opacity: 1;
+}
+a:visited {
+	box-shadow: 1px 1px 50px red;
+}
+a:link {
+	box-shadow: 1px 1px 50px purple;
+}
+a:selected {
+	box-shadow: 1px 1px 50px red;
+	opacity: 0.1;
+}
+#Signup {
+	position: relative;
+	top: 50%;
+	left:48%;
+	opacity: 1;	
+}
+a {
+	position: 
+}
